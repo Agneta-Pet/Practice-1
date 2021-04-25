@@ -1,0 +1,51 @@
+body {
+    background-color: antiquewhite;
+}
+header {
+background-color: aquamarine;
+}
+header > img {
+
+}
+header > nav {
+
+}
+nav > a {
+
+}
+nav > a {
+    
+}
+nav > a {
+    
+}
+nav > a {
+    
+}
+nav > a {
+    
+}
+main {
+
+;
+}
+main > div {
+display: inline-block;
+background-color: blue;
+}
+div > h1 {
+
+}
+div >h2 {
+
+}
+div > p {
+
+}
+div > a {
+
+}
+main > img {
+display: inline-block;
+width: 60%
+}
