@@ -2,13 +2,24 @@ body {
     background-color: antiquewhite;
 }
 header {
+width: 2000px;
 background-color: aquamarine;
 }
 header > img {
-
+    display: inline-block;
+    width: 200px;
+    float:left;
+    padding: 5px;
+    border: 1px solid blue;    
+    background-color: yellow; 
 }
 header > nav {
-
+    display: inline-block;
+    width: 1700px;
+    float: left;
+    padding: 5px;
+    border: 1px solid blue;    
+    background-color: yellow; 
 }
 nav > a {
 
@@ -32,6 +43,10 @@ main {
 main > div {
 display: inline-block;
 background-color: blue;
+width: 400px;
+height: 600px;
+padding: 5px;
+
 }
 div > h1 {
 
@@ -43,9 +58,11 @@ div > p {
 
 }
 div > a {
-
+color: black;
 }
 main > img {
 display: inline-block;
-width: 60%
+width: 1200px;
+height: 600px;
+padding: 5px;
 }
